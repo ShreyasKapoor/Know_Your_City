@@ -10,10 +10,20 @@ With this project, you'll have access to all the necessary information to make t
 
 ## Architecture Diagram
 
+![Know Your City Architecure](https://github.com/ShreyasKapoor/Know_Your_City/blob/main/images/architecture.png)
 
+## Tools ans Frameworks Used
+
+![Tools And Frameworkds](https://github.com/ShreyasKapoor/Know_Your_City/blob/main/images/tools_and_frameworks.png)
+
+## Project Demo Link
+
+[![Watch the video](https://i3.ytimg.com/vi/UsdFN2nKx70/maxresdefault.jpg)](https://youtu.be/UsdFN2nKx70)
 
 # To start the project in local:
 
-In projectcode root folder, run "npm install", then run "npm start". Alternatively, for yarn, use "yarn dev" . This will run hte node code on express server.
+```
+In projectcode root folder, run "npm install", then run "npm start". Alternatively, for yarn, use "yarn dev" . This will run the node code on express server.
 
 Then do "cd client" to go into the client folder and then run "npm install". Next run "npm start" if using npm to start the client on localhost. Alternatively for yarn, use "yarn start".
+```
